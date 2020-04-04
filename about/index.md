@@ -1,37 +1,18 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About me
+tags: [about]
+date: 2020-04-04
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>"A melhor forma de prever o futuro é criá-lo." - Alan Curtis Kay (1940)</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## ABOUT
+Olá, meu nome é Thais Cristina Pickler. Nasci e cresci em Joinville, Santa Catarina. Atualmente estou no terceiro ano de Design de Programação Visual pela UNIVILLE Universidade e sou Web Designer na empresa QUATENUS Rastreamento Inteligente.
 
-## Preview
+Minha paixão pelo design despertou logo cedo. Atraída pela área, fiz curso de um ano de Edição Gráfica pela YELLOW Escola Técnica e Formação Profissional aos 14 anos.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+Não tenha receio de me contatar para criação de seus projetos gráficos, estou sempre a disposição.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
