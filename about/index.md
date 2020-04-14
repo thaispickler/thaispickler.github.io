@@ -7,10 +7,10 @@ comments: false
 ---
     
 ## ABOUT
-Olá, meu nome é Thais Cristina Pickler. Nasci e cresci em Joinville, Santa Catarina. Graduada em Design de Programação Visual pela UNIVILLE Universidade, atualmente trabalho como Agente Administrativa na Prefeitura Municipal de Joinville.
+Olá, meu nome é <strong>Thais Cristina Pickler</strong>. Nasci e cresci em Joinville, Santa Catarina. Graduada desde 2018 em <strong>Design - Habilitação em Programação Visual</strong> pela UNIVILLE Universidade. 
 
-Minha paixão pelo design despertou logo cedo. Atraída pela área, fiz curso de um ano de Edição Gráfica pela YELLOW Escola Técnica e Formação Profissional aos 14 anos.
+Atualmente trabalho como Agente Administrativa na Prefeitura Municipal de Joinville, na Secretaria de Gestão de Pessoas, setor de Recrutamento. Atuo nas atividades de atendimento e gestão de pessoas. Participo também do desenvolvimento e comissões de Processos Seletivos e Concursos Públicos municipais.
 
-Não tenha receio de me contatar para criação de seus projetos gráficos, estou sempre a disposição. ♥
+Não tenha receio de me contatar para criação de seus projetos, estou a disposição. ♥
 
 
