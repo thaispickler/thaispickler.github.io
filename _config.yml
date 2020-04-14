@@ -1,7 +1,7 @@
 # Site
 title:              Thais Cristina Pickler
-bio:                'Graphic Designer.'
-description:        "A melhor forma de prever o futuro é criá-lo. - Alan Curtis Kay (1940)."
+bio:                'Brazilian Graphic Designer.'
+description:        "The best way to predict the future is to create it. - Abraham Lincoln and Peter Drucker"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   thata
+disqus_shortname:   Thata
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -42,7 +42,7 @@ twitter:            bunnythata
 facebook:           bathatayay
 github-url:         thaispickler
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          thaispickler
+linkedin:          thaispickler
 #xing:              username
 instagram:          bunnythata
 #lastfm:            username
@@ -53,7 +53,7 @@ instagram:          bunnythata
 steam:              haryuuharu
 #dribbble:          username
 #youtube:           username
-#youtube-channel:   Haryuun
+youtube-channel:   Haryuun
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
