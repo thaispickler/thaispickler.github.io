@@ -8,16 +8,15 @@ comments: false
     
 ## ABOUT
 
-<ul>Olá, meu nome é <strong>Thais Cristina Pickler</strong>. Nasci e cresci em Joinville, Santa Catarina. Graduada desde 2018 em <strong>Design - Habilitação em Programação Visual</strong> pela UNIVILLE Universidade. 
+Olá, meu nome é <strong>Thais Cristina Pickler</strong>. Nasci e cresci em Joinville, Santa Catarina. Graduada desde 2018 em <strong>Design - Habilitação em Programação Visual</strong> pela UNIVILLE Universidade. 
 
-Atualmente trabalho como Agente Administrativa na Prefeitura Municipal de Joinville, na Secretaria de Gestão de Pessoas, setor de Recrutamento. Atuo nas atividades de atendimento e gestão de pessoas. Participo também do desenvolvimento e comissões de Processos Seletivos e Concursos Públicos municipais.</ul>
+Atualmente trabalho como Agente Administrativa na Prefeitura Municipal de Joinville, na Secretaria de Gestão de Pessoas, setor de Recrutamento. Atuo nas atividades de atendimento e gestão de pessoas. Participo também do desenvolvimento e comissões de Processos Seletivos e Concursos Públicos municipais.
+
 
 ### Formação acadêmica
-<ul>
-Universidade da Região de Joinville
-Graduação em <strong>Design - Habilitação em Programação Visual</strong>
-2014 – 2018
-</ul>
+
+Universidade da Região de Joinville - Graduação em <strong>Design - Habilitação em Programação Visual</strong> - 2014 – 2018
+
 
 ### Certificados
 <ul>
@@ -33,4 +32,5 @@ Graduação em <strong>Design - Habilitação em Programação Visual</strong>
 <li>InDesign Para Iniciantes - UFRB - Universidade Federal do Recôncavo da Bahia</li>
 </ul>
 
-Não tenha receio de me contatar para criação de seus projetos, estou sempre a disposição. ♥
+
+Não tenha receio de me contatar para criação de seus projetos, <strong>estou sempre a disposição.</strong> ♥
