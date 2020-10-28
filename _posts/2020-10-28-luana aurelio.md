@@ -4,7 +4,7 @@ title:  "Luana Aurélio - Business Card"
 date:   2020-10-28
 excerpt: "Cartão de visitas para o Centro de Massoterapia Luana Aurélio."
 tag: [cartao, card, blog, posts]
-comments: true
+comments: false
 ---
 
 ## Cartão de visitas para o Centro de Massoterapia Luana Aurélio:
