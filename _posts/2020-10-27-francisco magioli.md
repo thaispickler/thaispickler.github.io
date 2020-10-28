@@ -17,15 +17,11 @@ comments: true
 Cartão para o Data Engineer <strong>Francisco Magioli</strong>. A parte frontal apresenta as informações de seu nome e título e a parte traseira acrescenta as informações de nome, telefone, site para contato e QR Code que, ao abrir pelo celular, aparece as informações de contato para serem salvas.
 
 
-<figure>
-	<a href="https://i.ibb.co/fD3Kqrw/1-Frente.jpg"><img src="https://i.ibb.co/fD3Kqrw/1-Frente.jpg"></a>
-	<figcaption><a href="https://i.ibb.co/fD3Kqrw/1-Frente.jpg"></a></figcaption>
+<figure class="half">
+    <a href="https://i.ibb.co/fD3Kqrw/1-Frente.jpg"><img src="https://i.ibb.co/fD3Kqrw/1-Frente.jpg"></a>
+    <a href="https://i.ibb.co/QrYPBY9/2-Verso.jpg"><img src="https://i.ibb.co/QrYPBY9/2-Verso.jpg"></a>
 </figure>
 
-<figure>
-	<a href="https://i.ibb.co/QrYPBY9/2-Verso.jpg"><img src="https://i.ibb.co/QrYPBY9/2-Verso.jpg"></a>
-	<figcaption><a href="https://i.ibb.co/QrYPBY9/2-Verso.jpg"></a></figcaption>
-</figure>
 
 ## Especificações Técnicas
 
