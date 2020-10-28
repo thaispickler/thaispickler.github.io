@@ -4,7 +4,7 @@ title:  "Francisco Magioli - Business Card"
 date:   2020-03-03
 excerpt: "Cartão de visitas para Francisco Magioli."
 tag: [cartao, card, blog, posts]
-comments: true
+comments: false
 ---
 
 ## Cartão de visitas para o Data Engineer Francisco Magioli:
