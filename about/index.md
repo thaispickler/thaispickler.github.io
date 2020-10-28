@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Sobre mim
 tags: [about]
 date: 2020-04-04
 comments: false
