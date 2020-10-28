@@ -26,7 +26,10 @@ Cartão para o Data Engineer <strong>Francisco Magioli</strong>. A parte frontal
 ## Especificações Técnicas
 
 <strong>Dimensões:</strong>
-945 x 591px
+945 x 591px ou 8 x 5cm
+
+<strong>Sistema de Cores:</strong>
+CMYK
 
 <strong>DPI:</strong>
 300 dpi
